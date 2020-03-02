@@ -1,4 +1,4 @@
-# flutter_db_app
+# flutter_pageview_app
 
 A new Flutter application.
 

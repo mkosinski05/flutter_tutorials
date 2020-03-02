@@ -1,4 +1,4 @@
-package com.flutterdbapp.flutter_db_app
+package com.flutterpageviewapp.flutter_pageview_app
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
