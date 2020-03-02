@@ -1,6 +1,5 @@
-# flutter_pageview_app
-
-A new Flutter application.
+# Flutter PageView Demo
+This flutter app show how to use the navigation Pageview. 
 
 ## Getting Started
 
